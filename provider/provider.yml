@@ -2,7 +2,7 @@ spring:
   datasource:
     username: root
     password: toor
-    url: 'jdbc:mysql://localhost:3306/provider'
+    url: jdbc:mysql://localhost:3306/provider
     show-sql: true
   jpa:
     hibernate:
